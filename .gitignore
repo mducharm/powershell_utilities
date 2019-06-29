@@ -1,0 +1,7 @@
+Scripts/
+Microsoft.PowerShell_profile.ps1
+Modules/Configuration
+Modules/Pester
+Modules/PSKoans
+Modules/Terminal-Icons
+Modules/PoshVerbs

@@ -1,0 +1,8 @@
+SHORT DESCRIPTION
+    A tool for generating module boilerplate for PowerShell.
+
+LONG DESCRIPTION
+    A tool for generating module boilerplate for PowerShell. Allows you to jump right into your project while making it easy to maintain.
+
+DETAILED DESCRIPTION
+

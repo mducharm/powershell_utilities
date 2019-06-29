@@ -1,0 +1,12 @@
+
+
+    <#
+    .SYNOPSIS
+        Brief description here.
+    .PARAMETER example
+        Parameter description here.
+    #>
+
+    param(
+        [string]$example
+    )
